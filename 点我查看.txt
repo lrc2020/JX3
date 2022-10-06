@@ -1,0 +1,22 @@
+最新版本号：1.0.0.0
+
+更新日期：2022-10-6
+
+更新日志：首个版本
+
+文件名称：剑网3开服监控-release-1.0.0.0.exe
+
+文件大小：443.5KB
+
+MD5:78B97DC3AC8D487827F94158BE80658E
+
+运行环境：Windows 7、8、10，.Net Framework 4.5及以上
+
+【GitHub下载地址(可能需要科学上网)】：https://raw.githubusercontent.com/lrc2020/JX3/master/%E5%89%91%E7%BD%913%E5%BC%80%E6%9C%8D%E7%9B%91%E6%8E%A7-release-1.0.0.0.exe
+
+【备用下载地址】
+
+百度网盘：https://pan.baidu.com/s/1tGNlb-tRTt4y3n5IVO24jA?pwd=ob2o
+提取码：ob2o
+
+阿里云盘：https://www.aliyundrive.com/s/fS4jg61zLf1
