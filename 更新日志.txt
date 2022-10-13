@@ -1,4 +1,21 @@
-最新版本：1.0.0.4（第5版）
+最新版本：1.0.0.5（第6版）
+
+更新日期：2022-10-13
+
+更新日志：
+1、新增测试服的3个服务器
+
+文件名称：剑网3开服监控-release-1.0.0.5.exe
+
+文件大小：666KB
+
+MD5：6FC6DBC878098A55E651991FC1901249
+
+运行环境：Windows 7、8、10、11 x64，.Net Framework 4.5及以上
+如果运行提示缺少.NET请安装.NET Framework 4.5或更高的运行时版本
+微软官方下载：https://dotnet.microsoft.com/zh-cn/download/dotnet-framework
+****************************************************
+历史版本：1.0.0.4
 
 更新日期：2022-10-13
 
@@ -11,10 +28,6 @@
 文件大小：565.5KB
 
 MD5：9ECF0E481BF1F6A5BDB582FFB3B1A59A
-
-运行环境：Windows 7、8、10、11 x64，.Net Framework 4.5及以上
-如果运行提示缺少.NET请安装.NET Framework 4.5或更高的运行时版本
-微软官方下载：https://dotnet.microsoft.com/zh-cn/download/dotnet-framework
 ****************************************************
 历史版本：1.0.0.3
 
