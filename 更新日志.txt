@@ -24,7 +24,7 @@
 
 文件大小：994.5KB
 
-MD5：B9DC95995C1A1E55BFD647F39BBBE067
+MD5：9C4216DEB55DB44E40EAAACA69C516E4
 
 运行环境：Windows 7、8、10、11 x64，.Net Framework 4.5及以上
 如果运行提示缺少.NET请安装.NET Framework 4.5或更高的运行时版本
